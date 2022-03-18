@@ -1,6 +1,6 @@
 # listed.nvim
 
-_basic persistent listing support_
+_persistent filepath lists_
 
 
 ## Overview
